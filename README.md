@@ -1,4 +1,4 @@
-# breast-cancer-detection
+# Breast-Cancer-Detection
 For women, breast cancer is a hazardous condition. The patient will die if it doesn't detect the disease in the early stages. Throughout the world, it affects women frequently. Nearly 12% of women worldwide are affected by breast cancer, and the number is continually rising.
 
 Goal of the project:
